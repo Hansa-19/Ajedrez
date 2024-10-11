@@ -23,13 +23,15 @@ body {
 
 /*Titulo de Chess Game*/
 
-.title1{
-    background: linear-gradient(135deg, #a30000 0%, #a30000 100%);
-  }
- 
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200px;
+    font-style: normal;
+}
+  
  .animated-shadow {
-   color: #ffffff;
-   font: normal 140px Varela Round, sans-serif;
+   font: 540px
    height: 140px;
    left: 0;
    letter-spacing: 5px;
